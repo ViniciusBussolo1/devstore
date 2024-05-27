@@ -1,17 +1,26 @@
-## :page_with_curl: Projeto
+## 💻 Projeto
 
-![Dev Store Gif](https://github.com/Rodrigo001-dev/devstore/blob/main/.github/images/dev-store.gif)
+![Dev Store Gif](.github/images/dev-store.gif)
 
 > <b>Dev store</b> É uma aplicação de e-commerce feito no Ignite da [Rocketseat](https://github.com/Rocketseat). Nessa aplicação o objetivo foi utilizar os conceitos introduzidos a partir do Next 13, que basicamente consiste em levar menos javascript para o lado do cliente, utilizando conceitos como Server Components para atingir esse objetivo, nessa aplicação também foi utilizado o Cypress para realizar testes E2E na web.
 
-## 🚀 Tecnologias/Bibliotecas utilizadas
+## ✨ Tecnologias
 
-<a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
-<a href="https://tailwindui.com/documentation" target="_blank"> <img src="https://img.shields.io/badge/-Tailwind-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> </a>
-<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank"> <img src="https://img.shields.io/badge/-Cypress-00814d?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"> </a>
+- [NextJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Cypress](https://docs.cypress.io/guides/overview/why-cypress)
 
-## :construction_worker: Executando
+## 🚀 Como executar
+
+Clone o projeto e acesse a pasta do mesmo.
+
+```bash
+$ git clone https://github.com/ViniciusBussolo1/teste_Stone.git
+$ cd teste_Stone
+```
+
+Para iniciá-lo, siga os passos abaixo:
 
 ```bash
 # Clone o Repositório
@@ -33,9 +42,5 @@ $ pnpm i
 $ pnpm run dev
 ```
 
-## 💻 Autor
+O app estará disponível no seu browser pelo endereço  http://localhost:3000/.
 
-Feito com 💜 by Rodrigo Rael
-
-<a href="https://www.linkedin.com/in/rodrigo-rael-a7a4b51a9/" target="_blank"> <img src="https://img.shields.io/badge/-RodrigoRael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https" alt="Linkedin Rodrigo"> </a>
-<a href="https://img.shields.io/badge/-rodrigorael53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorael53@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-rodrigorael53@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigorael53@gmail.com" alt="Gmail Rodrigo"> </a>
