@@ -24,7 +24,7 @@ Para iniciá-lo, siga os passos abaixo:
 
 ```bash
 # Clone o Repositório
-$ git@github.com:Rodrigo001-dev/devstore.git
+$ https://github.com/ViniciusBussolo1/devstore.git
 ```
 
 ```bash
@@ -42,5 +42,5 @@ $ pnpm i
 $ pnpm run dev
 ```
 
-O app estará disponível no seu browser pelo endereço  http://localhost:3000/.
+O app estará disponível no seu browser pelo endereço http://localhost:3000/.
 
