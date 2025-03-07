@@ -16,7 +16,7 @@
 Clone o projeto e acesse a pasta do mesmo.
 
 ```bash
-$ git clone https://github.com/ViniciusBussolo1/teste_Stone.git
+$ git clone https://github.com/ViniciusBussolo1/devstore.git
 $ cd teste_Stone
 ```
 
